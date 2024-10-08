@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @s3d
-- 👀 I’m interested in ...CyberSecurity
-- 🌱 I’m currently learning ...C++
+
 
 
 <!---
